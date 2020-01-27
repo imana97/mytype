@@ -1,2 +1,0 @@
-# mytype
-Created with CodeSandbox
